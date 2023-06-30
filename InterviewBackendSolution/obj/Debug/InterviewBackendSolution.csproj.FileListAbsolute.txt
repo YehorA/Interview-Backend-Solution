@@ -1,0 +1,8 @@
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\bin\Debug\InterviewBackendSolution.exe.config
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\bin\Debug\InterviewBackendSolution.exe
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\bin\Debug\InterviewBackendSolution.pdb
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\obj\Debug\InterviewBackendSolution.csproj.AssemblyReference.cache
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\obj\Debug\InterviewBackendSolution.csproj.SuggestedBindingRedirects.cache
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\obj\Debug\InterviewBackendSolution.csproj.CoreCompileInputs.cache
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\obj\Debug\InterviewBackendSolution.exe
+D:\C#\InterviewBackendSolution\InterviewBackendSolution\obj\Debug\InterviewBackendSolution.pdb
